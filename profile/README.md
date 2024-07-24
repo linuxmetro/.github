@@ -1,5 +1,3 @@
-# Linux Metro
+# Metroblock
 
-Linux Metro shall be an operating system conforming to the Metro design intermixing desktop and touchscreen accessibility.
-
-Inherits Debian.
+Metroblock shall be an operating system conforming to the Metro design intermixing desktop and touchscreen accessibility, based in the Unix kernel.

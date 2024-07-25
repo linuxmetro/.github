@@ -12,6 +12,6 @@ The File Explorer app browses files in the local machine, in the user home, and 
 
 ## Bash
 
-The Bash app allows entering text commands written in the Bash language as in Unix systems.
+The Bash app allows entering text commands in the Bash language.
 
 ![image](https://github.com/user-attachments/assets/d85525f3-2ba0-4e95-a83a-d0bbc04f6199)

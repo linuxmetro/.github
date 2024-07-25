@@ -2,6 +2,10 @@
 
 Metropicture shall be an operating system leveraging and conforming to the Metro design in a tablet form.
 
+## Split apps
+
+[Help: Split apps](https://github.com/metropicture/help/blob/master/split-apps.md)
+
 ## File Explorer
 
 The File Explorer app browses files in the local machine, in the user home, and in removable devices.

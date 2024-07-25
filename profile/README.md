@@ -2,9 +2,9 @@
 
 Metropicture shall be an operating system leveraging and conforming to the Metro design in a tablet form.
 
-## File system
+## File Explorer
 
-The file system is similiar to that of Unix systems.
+The File Explorer app browses files in the local machine, in the user home, and in removable devices.
 
 ## Bash
 
